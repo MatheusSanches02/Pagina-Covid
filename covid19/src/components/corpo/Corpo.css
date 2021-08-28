@@ -1,0 +1,27 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.corpo
+{
+    margin-left: 5%;
+}
+
+#logo-cnn
+{
+    width: 50%;
+    height: 50%;
+    margin-left: 60%;
+    margin-top: 5%;
+}
+
+.div-logo
+{
+    margin-top: 5%;
+    margin-left: 20%;
+    height: 150px;
+    width: 70%;
+    background-color:#eeeeed;
+}
