@@ -12,7 +12,7 @@ export default function FirstPage() {
         <section>
             <Menu/>
             <Header titleHeader = {title} infoP = {frase}/>
-            <Corpo dataA = {dataAtualização}/>
+            <Corpo dataA = {dataAtualização} />
         </section>
     )
 }

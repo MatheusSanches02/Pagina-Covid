@@ -1,13 +1,14 @@
 import React from 'react'
+import Circulo from '../circulo/Circulo'
 import './Menu.css'
 
 export default function Menu() {
     return (
         <section className="container-menu">
-            <div>
-                <nav id="menu">
+            <div id="menu">
+                <nav>
                     <ul>
-                        <li className="active"><a href="#">Nacional</a></li>
+                        <li><a href="#" className="container-menu active">Nacional <Circulo/></a></li>
                         <li><a href="#">Business</a></li>
                         <li><a href="#">Internacional</a></li>
                         <li><a href="#">Saúde</a></li>

@@ -22,7 +22,17 @@
     border-left: 30px solid #000000;
 }
 
-#menu ul li a:hover {
+#menu ul li a:hover, .active{
     background-color:#313131;
     color: #ffffff;
 }
+
+.nacional-circulo
+{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 130px;
+}
+

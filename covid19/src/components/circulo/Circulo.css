@@ -1,0 +1,8 @@
+.circulo
+{
+    width: 12px;
+    margin: 0 10px;
+    height: 12px;
+    border-radius: 6px;
+    background-color: #ff0000;
+}
