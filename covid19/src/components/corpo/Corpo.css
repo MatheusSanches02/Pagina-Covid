@@ -1,0 +1,34 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.corpo
+{
+    margin-left: 5%;
+}
+
+#logo-cnn
+{
+    width: 60%;
+    height: 60%;
+    margin-left: 60%;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+
+.div-logo
+{
+    margin-left: 10%;
+    height: 150px;
+    width: 70%;
+    background-color:#eeeeed;
+}
+
+#texto
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 170%;
+    margin-left: 5%;
+}

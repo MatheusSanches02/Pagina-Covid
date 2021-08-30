@@ -1,0 +1,38 @@
+#menu ul
+{
+    padding: 0px;
+    margin: 0px;
+    background-color: #000000;
+    list-style: none;
+}
+
+#menu ul li
+{
+    display: inline;
+}
+
+#menu ul li a {
+    padding: 1% 0.4%;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    /* visual do link */
+    background-color: #000000;
+    color:#ffffff;
+    text-decoration: none;
+    border-left: 30px solid #000000;
+}
+
+#menu ul li a:hover, .active{
+    background-color:#313131;
+    color: #ffffff;
+}
+
+.nacional-circulo
+{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 130px;
+}
+
